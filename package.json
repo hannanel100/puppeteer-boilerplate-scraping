@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/hellosurbhi/puppeteer-starter-code#readme",
   "dependencies": {
+    "csv-writer": "^1.6.0",
+    "mongodb": "^3.6.3",
     "puppeteer": "^5.5.0"
   }
 }
